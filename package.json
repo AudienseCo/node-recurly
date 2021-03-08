@@ -6,7 +6,7 @@
     "e-commerce",
     "recurring billing"
   ],
-  "version": "2.1.3",
+  "version": "2.1.4",
   "homepage": "https://github.com/robrighter/node-recurly",
   "author": "Rob Righter <robrighter@gmail.com> (http://github.com/robrighter)",
   "contributors": [
@@ -22,7 +22,7 @@
   "main": "./lib/recurly.js",
   "dependencies": {
     "xml2js": "0.4.18",
-    "js2xml": "git://github.com/SocialBro/js2xml"
+    "js2xml": "git://github.com/SocialBro/js2xml#libxmljs-0197"
   },
   "engines": {
     "node": ">= 0.4"
